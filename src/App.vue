@@ -8,7 +8,7 @@ const config = {
       componentName: 'Ainput3',
       asyncConfig: {
         name: 'Ainput3',
-        path: 'http://localhost:3000/resources/Ainput3-B7fOjmr-.js',
+        path: 'http://localhost:5173/src/assets/Ainput2.vue',
       },
       props: { placeholder: '请输入内容1' },
       slots: {
@@ -18,7 +18,7 @@ const config = {
             componentName: 'Ainput3',
             asyncConfig: {
               name: 'Ainput3',
-              path: 'http://localhost:3000/resources/Ainput3-B7fOjmr-.js',
+              path: 'http://localhost:5173/src/assets/Ainput2.vue',
             },
             props: { placeholder: '我是头部插槽内容0' },
           },
